@@ -1,0 +1,8 @@
+Tasks
+
+Scadenza: 01/01/2022, Livello Di Priorità: Basso, Descrizione: task1
+Scadenza: 02/02/2022, Livello Di Priorità: Basso, Descrizione: task2
+Scadenza: 03/03/2022, Livello Di Priorità: Medio, Descrizione: task3
+Scadenza: 04/04/2022, Livello Di Priorità: Medio, Descrizione: task4
+Scadenza: 10/07/2021, Livello Di Priorità: Alto, Descrizione: task6
+Scadenza: 07/07/2022, Livello Di Priorità: Alto, Descrizione: task7
